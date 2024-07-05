@@ -111,6 +111,31 @@ fs.readFile(gpmlFilePath, 'utf-8', (err, gpmlContent) => {
         cx2Data.elements.edges.push(cx2Edge);
       });
     }
+       
+    if (pathway.Label) {
+      pathway.Label.forEach(label => {
+        const graphics = label.Graphics[0].$;
+        const cx2Label = {
+          id: label.$.GraphId,
+          text: label.$.TextLabel,
+          graphics: {
+            centerX: parseFloat(graphics.CenterX),
+            centerY: parseFloat(graphics.CenterY),
+            width: parseFloat(graphics.Width),
+            height: parseFloat(graphics.Height),
+            zOrder: parseInt(graphics.ZOrder, 10),
+            fillColor: `#${graphics.FillColor}`,
+            fontWeight: graphics.FontWeight,
+            fontSize: parseInt(graphics.FontSize, 10),
+            valign: graphics.Valign
+          }
+        };
+        if (!cx2Data.elements.labels) {
+          cx2Data.elements.labels = [];
+        }
+        cx2Data.elements.labels.push(cx2Label);
+      });
+    }
 
 
     // Convert CX2 data to JSON string
