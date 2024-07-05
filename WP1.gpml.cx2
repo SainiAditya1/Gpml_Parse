@@ -1,0 +1,1531 @@
+{
+  "cxDescriptor": {
+    "CXVersion": "2.0",
+    "hasFragments": false
+  },
+  "elements": {
+    "nodes": [
+      {
+        "id": "c66",
+        "x": 756.6666666666666,
+        "y": 212.33333333333334,
+        "z": 28672,
+        "v": {
+          "GraphId": "c66",
+          "CenterX": 756.6666666666666,
+          "CenterY": 212.33333333333334,
+          "ZOrder": 28672,
+          "label": "Triglycerides",
+          "type": "Metabolite",
+          "XrefId": "CHEBI:17855",
+          "XrefDatasource": "ChEBI",
+          "Width": 104.33333333333333,
+          "Height": 19
+        }
+      },
+      {
+        "id": "d24",
+        "x": 756.6666666666667,
+        "y": 180,
+        "z": 28672,
+        "v": {
+          "GraphId": "d24",
+          "CenterX": 756.6666666666667,
+          "CenterY": 180,
+          "ZOrder": 28672,
+          "label": "Phospholipid",
+          "type": "Metabolite",
+          "XrefId": "CHEBI:16247",
+          "XrefDatasource": "ChEBI",
+          "Width": 104.33333333333337,
+          "Height": 19.000000000000014
+        }
+      },
+      {
+        "id": "fa9",
+        "x": 552.3160678994171,
+        "y": 124.72359141038902,
+        "z": 28672,
+        "v": {
+          "GraphId": "fa9",
+          "CenterX": 552.3160678994171,
+          "CenterY": 124.72359141038902,
+          "ZOrder": 28672,
+          "label": "Free FA",
+          "type": "Metabolite",
+          "XrefId": "CHEBI:35366",
+          "XrefDatasource": "ChEBI",
+          "Width": 64.33333333333333,
+          "Height": 19
+        }
+      },
+      {
+        "id": "a24b2",
+        "x": 584,
+        "y": 236.00000000000003,
+        "z": 32768,
+        "v": {
+          "GraphId": "a24b2",
+          "CenterX": 584,
+          "CenterY": 236.00000000000003,
+          "ZOrder": 32768,
+          "label": "Cholesterol ester",
+          "type": "Metabolite",
+          "XrefId": "CHEBI:17002",
+          "XrefDatasource": "ChEBI",
+          "Width": 124,
+          "Height": 20,
+          "Color": "0000ff"
+        }
+      },
+      {
+        "id": "a36",
+        "x": 377.1904761904765,
+        "y": 330.3333333333333,
+        "z": 32768,
+        "v": {
+          "GraphId": "a36",
+          "CenterX": 377.1904761904765,
+          "CenterY": 330.3333333333333,
+          "ZOrder": 32768,
+          "label": "Lrp1",
+          "type": "GeneProduct",
+          "XrefId": "16971",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "a5e",
+        "x": 739.9999999999987,
+        "y": 389.9999999999998,
+        "z": 32768,
+        "v": {
+          "GraphId": "a5e",
+          "CenterX": 739.9999999999987,
+          "CenterY": 389.9999999999998,
+          "ZOrder": 32768,
+          "label": "Apoc3",
+          "type": "GeneProduct",
+          "XrefId": "11814",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "a64",
+        "x": 739.9999999999987,
+        "y": 449.9999999999998,
+        "z": 32768,
+        "v": {
+          "GraphId": "a64",
+          "CenterX": 739.9999999999987,
+          "CenterY": 449.9999999999998,
+          "ZOrder": 32768,
+          "label": "Apoc2",
+          "type": "GeneProduct",
+          "XrefId": "11813",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "af7",
+        "x": 255.5238095238094,
+        "y": 419.57142857142884,
+        "z": 32768,
+        "v": {
+          "GraphId": "af7",
+          "CenterX": 255.5238095238094,
+          "CenterY": 419.57142857142884,
+          "ZOrder": 32768,
+          "label": "Lipc",
+          "type": "GeneProduct",
+          "XrefId": "15450",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "afd21",
+        "x": 285,
+        "y": 637,
+        "z": 32768,
+        "v": {
+          "GraphId": "afd21",
+          "CenterX": 285,
+          "CenterY": 637,
+          "ZOrder": 32768,
+          "label": "Cholesterol",
+          "type": "Metabolite",
+          "XrefId": "HMDB0000067",
+          "XrefDatasource": "HMDB",
+          "Width": 80,
+          "Height": 20,
+          "Color": "0000ff"
+        }
+      },
+      {
+        "id": "b7b",
+        "x": 377.1904761904765,
+        "y": 462.2380952380956,
+        "z": 32768,
+        "v": {
+          "GraphId": "b7b",
+          "CenterX": 377.1904761904765,
+          "CenterY": 462.2380952380956,
+          "ZOrder": 32768,
+          "label": "Cetp",
+          "type": "GeneProduct",
+          "XrefId": "1071",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "b95",
+        "x": 580.4761904761907,
+        "y": 569.047619047619,
+        "z": 32768,
+        "v": {
+          "GraphId": "b95",
+          "CenterX": 580.4761904761907,
+          "CenterY": 569.047619047619,
+          "ZOrder": 32768,
+          "label": "Apoa4",
+          "type": "GeneProduct",
+          "XrefId": "11808",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "ba3f8",
+        "x": 347,
+        "y": 236,
+        "z": 32768,
+        "v": {
+          "GraphId": "ba3f8",
+          "CenterX": 347,
+          "CenterY": 236,
+          "ZOrder": 32768,
+          "label": "Cholesterol",
+          "type": "Metabolite",
+          "XrefId": "HMDB0000067",
+          "XrefDatasource": "HMDB",
+          "Width": 124,
+          "Height": 20,
+          "Color": "0000ff"
+        }
+      },
+      {
+        "id": "be0",
+        "x": 674.376506134835,
+        "y": 122.73746377756173,
+        "z": 32768,
+        "v": {
+          "GraphId": "be0",
+          "CenterX": 674.376506134835,
+          "CenterY": 122.73746377756173,
+          "ZOrder": 32768,
+          "label": "Dgat1",
+          "type": "GeneProduct",
+          "XrefId": "13350",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "c3e",
+        "x": 474.3333333333335,
+        "y": 417.66666666666697,
+        "z": 32768,
+        "v": {
+          "GraphId": "c3e",
+          "CenterX": 474.3333333333335,
+          "CenterY": 417.66666666666697,
+          "ZOrder": 32768,
+          "label": "Lpl",
+          "type": "GeneProduct",
+          "XrefId": "16956",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "c40",
+        "x": 131,
+        "y": 330.3333333333333,
+        "z": 32768,
+        "v": {
+          "GraphId": "c40",
+          "CenterX": 131,
+          "CenterY": 330.3333333333333,
+          "ZOrder": 32768,
+          "label": "Scarb1",
+          "type": "GeneProduct",
+          "XrefId": "20778",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "c4e",
+        "x": 562.809523809524,
+        "y": 491.1904761904762,
+        "z": 32768,
+        "v": {
+          "GraphId": "c4e",
+          "CenterX": 562.809523809524,
+          "CenterY": 491.1904761904762,
+          "ZOrder": 32768,
+          "label": "Pltp",
+          "type": "GeneProduct",
+          "XrefId": "18830",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "d72",
+        "x": 231.66666666666666,
+        "y": 330.3333333333333,
+        "z": 32768,
+        "v": {
+          "GraphId": "d72",
+          "CenterX": 231.66666666666666,
+          "CenterY": 330.3333333333333,
+          "ZOrder": 32768,
+          "label": "Ldlr",
+          "type": "GeneProduct",
+          "XrefId": "16835",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "d75",
+        "x": 367.1904761904764,
+        "y": 571.0000000000001,
+        "z": 32768,
+        "v": {
+          "GraphId": "d75",
+          "CenterX": 367.1904761904764,
+          "CenterY": 571.0000000000001,
+          "ZOrder": 32768,
+          "label": "Abca1",
+          "type": "GeneProduct",
+          "XrefId": "11303",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "da7",
+        "x": 416.6666666666667,
+        "y": 164.4873208379272,
+        "z": 32768,
+        "v": {
+          "GraphId": "da7",
+          "CenterX": 416.6666666666667,
+          "CenterY": 164.4873208379272,
+          "ZOrder": 32768,
+          "label": "Cyp7a1",
+          "type": "GeneProduct",
+          "XrefId": "13122",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "e04",
+        "x": 205.33333333333334,
+        "y": 164.4873208379272,
+        "z": 32768,
+        "v": {
+          "GraphId": "e04",
+          "CenterX": 205.33333333333334,
+          "CenterY": 164.4873208379272,
+          "ZOrder": 32768,
+          "label": "Hmgcr",
+          "type": "GeneProduct",
+          "XrefId": "15357",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "e4e59",
+        "x": 98.07717750826917,
+        "y": 164.4873208379272,
+        "z": 32768,
+        "v": {
+          "GraphId": "e4e59",
+          "CenterX": 98.07717750826917,
+          "CenterY": 164.4873208379272,
+          "ZOrder": 32768,
+          "label": "Statin",
+          "type": "Metabolite",
+          "XrefId": "CHEBI:87631",
+          "XrefDatasource": "ChEBI",
+          "Width": 60,
+          "Height": 20,
+          "Color": "ff0033"
+        }
+      },
+      {
+        "id": "e58",
+        "x": 505.761904761905,
+        "y": 569.047619047619,
+        "z": 32768,
+        "v": {
+          "GraphId": "e58",
+          "CenterX": 505.761904761905,
+          "CenterY": 569.047619047619,
+          "ZOrder": 32768,
+          "label": "Apoa1",
+          "type": "GeneProduct",
+          "XrefId": "11806",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "e6e",
+        "x": 454.1904761904762,
+        "y": 199.4761904761904,
+        "z": 32768,
+        "v": {
+          "GraphId": "e6e",
+          "CenterX": 454.1904761904762,
+          "CenterY": 199.4761904761904,
+          "ZOrder": 32768,
+          "label": "Soat1",
+          "type": "GeneProduct",
+          "XrefId": "20652",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "ecd6d",
+        "x": 346,
+        "y": 108,
+        "z": 32768,
+        "v": {
+          "GraphId": "ecd6d",
+          "CenterX": 346,
+          "CenterY": 108,
+          "ZOrder": 32768,
+          "label": "Cholic acid",
+          "type": "Metabolite",
+          "XrefId": "HMDB0000619",
+          "XrefDatasource": "HMDB",
+          "Width": 124,
+          "Height": 20,
+          "Color": "0000ff"
+        }
+      },
+      {
+        "id": "f6a60",
+        "x": 120.07717750826919,
+        "y": 236,
+        "z": 32768,
+        "v": {
+          "GraphId": "f6a60",
+          "CenterX": 120.07717750826919,
+          "CenterY": 236,
+          "ZOrder": 32768,
+          "label": "Acetyl-CoA",
+          "type": "Metabolite",
+          "XrefId": "HMDB0001206",
+          "XrefDatasource": "HMDB",
+          "Width": 80,
+          "Height": 20,
+          "Color": "0000ff"
+        }
+      },
+      {
+        "id": "f82",
+        "x": 377.1904761904765,
+        "y": 489.6190476190473,
+        "z": 32768,
+        "v": {
+          "GraphId": "f82",
+          "CenterX": 377.1904761904765,
+          "CenterY": 489.6190476190473,
+          "ZOrder": 32768,
+          "label": "Lcat",
+          "type": "GeneProduct",
+          "XrefId": "16816",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "f8e",
+        "x": 685.380952380953,
+        "y": 273.9523809523805,
+        "z": 32768,
+        "v": {
+          "GraphId": "f8e",
+          "CenterX": 685.380952380953,
+          "CenterY": 273.9523809523805,
+          "ZOrder": 32768,
+          "label": "Mttp",
+          "type": "GeneProduct",
+          "XrefId": "17777",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "f9d",
+        "x": 739.9999999999987,
+        "y": 409.9999999999998,
+        "z": 32768,
+        "v": {
+          "GraphId": "f9d",
+          "CenterX": 739.9999999999987,
+          "CenterY": 409.9999999999998,
+          "ZOrder": 32768,
+          "label": "Apoc1",
+          "type": "GeneProduct",
+          "XrefId": "11812",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      },
+      {
+        "id": "fad",
+        "x": 739.9999999999987,
+        "y": 429.9999999999998,
+        "z": 32768,
+        "v": {
+          "GraphId": "fad",
+          "CenterX": 739.9999999999987,
+          "CenterY": 429.9999999999998,
+          "ZOrder": 32768,
+          "label": "Apoe",
+          "type": "GeneProduct",
+          "XrefId": "11816",
+          "XrefDatasource": "Entrez Gene",
+          "Width": 60,
+          "Height": 20
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "b008b",
+        "source": "c83",
+        "target": "a36",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "None",
+          "startPoint": {
+            "x": 377.1904761904765,
+            "y": 373.8333333333333,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 377.1904761904765,
+            "y": 340.3333333333333,
+            "relX": 0,
+            "relY": 1,
+            "arrowHead": "None"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id1e5724f9",
+        "source": "af7",
+        "target": "e5b31",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 255.5238095238094,
+            "y": 409.57142857142884,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 267.80952380952397,
+            "y": 383.3333333333333,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id1e7f7971",
+        "source": "a24b2",
+        "target": "f90e3",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 584,
+            "y": 246.00000000000003,
+            "relX": 0,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 739.9999999999987,
+            "y": 371.9999999999998,
+            "relX": 0,
+            "relY": -1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id22e28379",
+        "source": "c40",
+        "target": "ba3f8",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 131,
+            "y": 320.3333333333333,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 316,
+            "y": 246,
+            "relX": -0.5,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id29bceef9",
+        "source": "fa9",
+        "target": "c66",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 584.482734566084,
+            "y": 124.72359141038902,
+            "relX": 1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 704.5,
+            "y": 212.33333333333334,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id2d08a86c",
+        "source": "ba3f8",
+        "target": "a24b2",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 409,
+            "y": 236,
+            "relX": 1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 522,
+            "y": 236.00000000000003,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id37ab2a8b",
+        "source": "e04",
+        "target": "b8d41",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 205.33333333333334,
+            "y": 174.4873208379272,
+            "relX": 0,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 205.08166969147004,
+            "y": 236,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id436f346c",
+        "source": "a36",
+        "target": "ba3f8",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 377.1904761904765,
+            "y": 320.3333333333333,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 378,
+            "y": 246,
+            "relX": 0.5,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id54cd1002",
+        "source": "da7",
+        "target": "a475f",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 386.6666666666667,
+            "y": 164.4873208379272,
+            "relX": -1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 346.4363200446836,
+            "y": 165.1225648258281,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id5693288b",
+        "source": "ba3f8",
+        "target": "ecd6d",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 347,
+            "y": 226,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 346,
+            "y": 118,
+            "relX": 0,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id5b3e22b6",
+        "source": "ca915",
+        "target": "e58",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "None",
+          "startPoint": {
+            "x": 547.0372388652227,
+            "y": 543.3540352711274,
+            "relX": 0,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 520.761904761905,
+            "y": 559.047619047619,
+            "relX": 0.5,
+            "relY": -1,
+            "arrowHead": "None"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id6ca21b57",
+        "source": "d57",
+        "target": "c40",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "None",
+          "startPoint": {
+            "x": 177.33333333333334,
+            "y": 373.8333333333333,
+            "relX": -0.5,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 146,
+            "y": 340.3333333333333,
+            "relX": 0.5,
+            "relY": 1,
+            "arrowHead": "None"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id6eef87c",
+        "source": "b7b",
+        "target": "b9f0f",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 392.1904761904765,
+            "y": 452.2380952380956,
+            "relX": 0.5,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 418.8904761904764,
+            "y": 425.80476190476196,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id71c845e6",
+        "source": "e4e59",
+        "target": "e04",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "TBar",
+          "startPoint": {
+            "x": 128.0771775082692,
+            "y": 164.4873208379272,
+            "relX": 1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 175.33333333333334,
+            "y": 164.4873208379272,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "TBar"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id7808eadf",
+        "source": "d75",
+        "target": "cdf",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 367.1904761904764,
+            "y": 561.0000000000001,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 469.6904761904763,
+            "y": 494.26190476190493,
+            "relX": -0.5,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id7b27d8",
+        "source": "c4e",
+        "target": "d7423",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 547.809523809524,
+            "y": 501.1904761904762,
+            "relX": -0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 524.3691362507187,
+            "y": 524.060977024626,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id7fb4b630",
+        "source": "f82",
+        "target": "df895",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 392.1904761904765,
+            "y": 499.6190476190473,
+            "relX": 0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 437.1183927969269,
+            "y": 515.469697967972,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id8511f007",
+        "source": "d57",
+        "target": "c83",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 205.33333333333337,
+            "y": 383.3333333333333,
+            "relX": 1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 361.52380952380986,
+            "y": 383.3333333333333,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "id9d3f4991",
+        "source": "fca",
+        "target": "cdf",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 565.1071428571432,
+            "y": 392.8333333333333,
+            "relX": -0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 489.35714285714295,
+            "y": 475.26190476190493,
+            "relX": 0.5,
+            "relY": -1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ida14b6441",
+        "source": "f6a60",
+        "target": "ba3f8",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 160.0771775082692,
+            "y": 236,
+            "relX": 1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 285,
+            "y": 236,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ida73c84b7",
+        "source": "d75",
+        "target": "afd21",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "None",
+          "startPoint": {
+            "x": 352.1904761904764,
+            "y": 581.0000000000001,
+            "relX": -0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 285,
+            "y": 627,
+            "relX": 0,
+            "relY": -1,
+            "arrowHead": "None"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ida9302f64",
+        "source": "d72",
+        "target": "ba3f8",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 231.66666666666663,
+            "y": 320.3333333333333,
+            "relX": 0,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 347,
+            "y": 246,
+            "relX": 0,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idad027bce",
+        "source": "e9293",
+        "target": "d24",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 666.9115312435517,
+            "y": 184.89464744822337,
+            "relX": 0,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 704.5,
+            "y": 180,
+            "relX": -1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idaf2a986",
+        "source": "fa9",
+        "target": "a24b2",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 552.3160678994172,
+            "y": 134.22359141038902,
+            "relX": 0,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 553,
+            "y": 226.00000000000003,
+            "relX": -0.5,
+            "relY": -1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idc6341a29",
+        "source": "fca",
+        "target": "c83",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 553.0238095238099,
+            "y": 383.3333333333333,
+            "relX": -1,
+            "relY": 0
+          },
+          "endPoint": {
+            "x": 392.8571428571431,
+            "y": 383.3333333333333,
+            "relX": 1,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idd2373b45",
+        "source": "c83",
+        "target": "cdf",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 385.0238095238098,
+            "y": 392.8333333333333,
+            "relX": 0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 469.6904761904763,
+            "y": 475.26190476190493,
+            "relX": -0.5,
+            "relY": -1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idd98747a1",
+        "source": "e6e",
+        "target": "a259b",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 454.1904761904762,
+            "y": 209.4761904761904,
+            "relX": 0,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 454.2,
+            "y": 236,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "iddc51ad2b",
+        "source": "b95",
+        "target": "cdf",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 565.4761904761907,
+            "y": 559.047619047619,
+            "relX": -0.5,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 489.35714285714295,
+            "y": 494.26190476190493,
+            "relX": 0.5,
+            "relY": 1,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ide0f0a17c",
+        "source": "d57",
+        "target": "d72",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "None",
+          "startPoint": {
+            "x": 196.00000000000003,
+            "y": 373.8333333333333,
+            "relX": 0.5,
+            "relY": -1
+          },
+          "endPoint": {
+            "x": 231.66666666666663,
+            "y": 340.3333333333333,
+            "relX": 0,
+            "relY": 1,
+            "arrowHead": "None"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ide734686c",
+        "source": "f8e",
+        "target": "bd45e",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 670.380952380953,
+            "y": 283.9523809523805,
+            "relX": -0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 646.3999999999995,
+            "y": 296.3999999999999,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idfb69689",
+        "source": "c3e",
+        "target": "a4349",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 474.3333333333335,
+            "y": 427.66666666666697,
+            "relX": 0,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 474.2857142857143,
+            "y": 383.3333333333333,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "idfd21ef1c",
+        "source": "be0",
+        "target": "bee71",
+        "z": 12288,
+        "v": {
+          "lineThickness": 1,
+          "arrowHead": "Arrow",
+          "startPoint": {
+            "x": 659.376506134835,
+            "y": 132.73746377756174,
+            "relX": -0.5,
+            "relY": 1
+          },
+          "endPoint": {
+            "x": 632.4896407396504,
+            "y": 159.76748817956675,
+            "relX": 0,
+            "relY": 0,
+            "arrowHead": "Arrow"
+          },
+          "xref": {
+            "database": "",
+            "id": ""
+          }
+        }
+      }
+    ],
+    "labels": [
+      {
+        "id": "b93",
+        "text": "Liver cell",
+        "graphics": {
+          "centerX": 856.6666666666666,
+          "centerY": 320,
+          "width": 73.33333333333333,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "c83",
+        "text": "IDL",
+        "graphics": {
+          "centerX": 377.19047619047655,
+          "centerY": 383.3333333333333,
+          "width": 31.333333333333332,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "cdf",
+        "text": "HDL",
+        "graphics": {
+          "centerX": 479.5238095238097,
+          "centerY": 484.76190476190493,
+          "width": 39.333333333333336,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "d57",
+        "text": "LDL",
+        "graphics": {
+          "centerX": 186.66666666666666,
+          "centerY": 383.3333333333333,
+          "width": 37.333333333333336,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "e46",
+        "text": "Cell Membrane",
+        "graphics": {
+          "centerX": 848.0952380952393,
+          "centerY": 68.09523809523814,
+          "width": 102.33333333333333,
+          "height": 16,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 10,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "f20",
+        "text": "Tissues",
+        "graphics": {
+          "centerX": 361.01851851851836,
+          "centerY": 678.0092592592584,
+          "width": 65.33333333333333,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "fbb",
+        "text": "Plasma",
+        "graphics": {
+          "centerX": 813.7037037037032,
+          "centerY": 451.70634920634876,
+          "width": 61.333333333333336,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      },
+      {
+        "id": "fca",
+        "text": "VLDL",
+        "graphics": {
+          "centerX": 577.1904761904765,
+          "centerY": 383.3333333333333,
+          "width": 48.333333333333336,
+          "height": 19,
+          "zOrder": 28672,
+          "fillColor": "#ffffff",
+          "fontWeight": "Bold",
+          "fontSize": 12,
+          "valign": "Middle"
+        }
+      }
+    ]
+  },
+  "status": [
+    {
+      "success": true
+    }
+  ]
+}

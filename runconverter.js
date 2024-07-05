@@ -47,7 +47,7 @@ fs.readFile(gpmlFilePath, 'utf-8', (err, gpmlContent) => {
         edges: [],
         labels: []
       },
-      status: [ 
+       status: [ 
         {
           "success": true
         }
