@@ -111,13 +111,13 @@ fs.readFile(gpmlFilePath, 'utf-8', (err, gpmlContent) => {
         cx2Data.elements.edges.push(cx2Edge);
       });
     }
-    
+
 
     // Convert CX2 data to JSON string
     const cx2JsonString = JSON.stringify(cx2Data, null, 2);
 
     // Write CX2 data to file
-    const outputPath = `${gpmlFilePath}.cx2.json`;
+    const outputPath = `${gpmlFilePath}.cx2`;
     fs.writeFile(outputPath, cx2JsonString, 'utf-8', (err) => {
       if (err) {
         console.error(`Error writing CX2 file: ${err.message}`);
