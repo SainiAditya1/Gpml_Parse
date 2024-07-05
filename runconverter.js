@@ -44,8 +44,14 @@ fs.readFile(gpmlFilePath, 'utf-8', (err, gpmlContent) => {
     
     elements: {
         nodes: [],
-        edges: []
-      }
+        edges: [],
+        labels: []
+      },
+      status: [ 
+        {
+          "success": true
+        }
+      ]
     };
 
         if (pathway.DataNode) {
